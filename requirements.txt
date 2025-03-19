@@ -4,8 +4,3 @@ plotly
 folium
 streamlit-folium
 requests
-smtplib
-twilio
-geopandas
-matplotlib
-python-dotenv
